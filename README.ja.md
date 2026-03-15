@@ -1,17 +1,19 @@
 # PDF
 
-PDF出力ライブラリ
+PDFファイルを生成するシンプルなJavaScriptライブラリです。
 
 ## デモ
 [test.pdf](test.pdf)
 
 ## 機能
-- PDF文書の作成
-- テキスト、線の描画
-- A4サイズ対応
+- JavaScriptでPDF文書の作成
+- テキスト、線の描画などの基本機能
+- PDF-LIBライブラリを使用
+- M+フォントに対応
 
 ## 必要環境
-- Deno
+- [PDF-LIB](https://pdf-lib.js.org/)ライブラリ
+- 日本語テキスト用に[M+ FONTS](https://mplusfonts.github.io/)
 
 ## 使い方
 ```js
