@@ -1,13 +1,10 @@
 # PDF
 
-PDFファイルを生成するシンプルなJavaScriptライブラリです。
-
-## デモ
-[test.pdf](test.pdf)
+JavaScript を使ってPDFファイルを生成するシンプルなライブラリです。
 
 ## 機能
-- JavaScriptでPDF文書の作成
-- テキスト、線の描画などの基本機能
+- JavaScript でPDF文書を作成できる
+- テキスト、線などの基本的な図形の描画をサポート
 - PDF-LIBライブラリを使用
 - M+フォントに対応
 
